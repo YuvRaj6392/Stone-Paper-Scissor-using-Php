@@ -36,7 +36,7 @@ echo "Wrong Password";
 <input type=password name=password required>
 <h6 align=center>(Password Hint:Admin's name followed my 123)</h6>
 <br>
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp<input type=submit value=Login>
+<input type=submit value=Login>
 </form>
 <h4>If you want to play the stone,paper,scissor&nbsp<a href=game.php>game</a>&nbspmake sure you Login first</h4>
 </body>
